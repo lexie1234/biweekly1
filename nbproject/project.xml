@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.php.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
+<<<<<<< HEAD
             <name>User_Managemnt</name>
+=======
+            <name>Assignment</name>
+>>>>>>> 1e5f458c5c3f73b09736cc6dcbaeff5c414b78a6
         </data>
     </configuration>
 </project>
